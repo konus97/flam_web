@@ -198,11 +198,14 @@
     /*.visual & #main */
 
 
+    /* .visual{
+        position:relative;
+    } */
     .visual .visual_text{
         width: 90%;
         position: relative;
         left: 5%;
-        bottom: 380px;
+        bottom: 489px;
     } 
 
     .visual .visual_text h3{
